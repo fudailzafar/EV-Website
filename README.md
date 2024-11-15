@@ -1,1 +1,3 @@
-# A landing page made using ReactJs
+# EV Website
+
+A practice website for learning ReactJs.
